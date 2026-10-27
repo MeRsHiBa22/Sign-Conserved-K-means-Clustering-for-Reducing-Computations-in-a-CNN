@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Dataset files
+data/
+datasets/
+
+# Experiment outputs
+runs/
+outputs/
+wandb/
+
+# Logs
+*.log
+
+# Editor and system files
+.DS_Store
+
